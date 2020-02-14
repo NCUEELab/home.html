@@ -48,7 +48,6 @@ a:hover {color: blue;}
 			</li>
 		</ul>
 
-</style>
 <body>	
 	
 					
