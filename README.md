@@ -49,7 +49,7 @@ a:hover {color: blue;}
 		</ul>
 	</div>
 	
-	<div id="body">
+
 		
 	
 					
