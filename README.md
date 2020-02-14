@@ -50,16 +50,7 @@ a:hover {color: blue;}
 	</div>
 	
 	<div id="body">
-		<ul>
-			<li>
-				<div class="contenttitle">前瞻元件與技術實驗室</div>
-				<br>
-				<div style='border: 5px ridge #1045a3;  padding:10px; background:white'>
-				<h3 style='font-weight:bold;font-family:cursive;text-shadow:3px 3px 3px #cccccc;'>What's new!</h3>
-					
-					
-					</p><hr>
-					<p class='news'>
+		
 	
 					
 				
