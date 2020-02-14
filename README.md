@@ -1,6 +1,6 @@
 # NCU EE Lab
 
-<!-- <!DOCTYPE HTML>-->
+<!DOCTYPE HTML>
 <!-- Website Template by freewebsitetemplates.com -->
 <html>
 <head>
