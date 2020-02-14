@@ -25,7 +25,7 @@ a:hover {color: blue;}
 <body>
 	<div class='language'>中文>
 	<div id="header">
-		<a href="home.html" class="logo"><img src="/NCULOGO.PNG" alt=""></a>
+		<a href="home.html" class="logo"><img src="master/NCULOGO.PNG" alt=""></a>
 		<ul>
 			<li class="selected">
 				<a href="home.html">首頁</a>
