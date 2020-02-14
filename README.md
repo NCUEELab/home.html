@@ -4,9 +4,7 @@
 <!-- Website Template by freewebsitetemplates.com -->
 <html>
 <head>
-	<meta charset="UTF-8">
-	<title>首頁 - 前瞻元件與技術實驗室</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
+	
 </head>
 <style>
 p.news{line-height:20px;}
