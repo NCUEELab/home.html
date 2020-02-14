@@ -54,6 +54,6 @@ a:hover {color: blue;}
 	
 					
 				
-	</div>
+	
 </body>
 </html>
