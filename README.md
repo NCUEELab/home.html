@@ -1,4 +1,3 @@
-# NCU EE Lab
 
 <!DOCTYPE HTML>
 <!-- Website Template by freewebsitetemplates.com -->
