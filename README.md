@@ -52,6 +52,4 @@ a:hover {color: blue;}
 	
 					
 				
-	
-</body>
-</html>
+
