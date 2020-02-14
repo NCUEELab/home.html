@@ -49,7 +49,7 @@ a:hover {color: blue;}
 				<a href="active.html">活動</a>
 			</li>
 		</ul>
-	</div>
+
 	
 	
 					
