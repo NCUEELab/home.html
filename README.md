@@ -21,7 +21,7 @@ a:hover {color: blue;}
 
 </style>
 <body>
-	<div class='language'>中文 /div>
+	<div class='language'>中文>
 	<div id="header">
 		<a href="home.html" class="logo"><img src="images/logo.png" alt=""></a>
 		<ul>
