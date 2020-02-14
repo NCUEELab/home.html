@@ -18,7 +18,7 @@ a:hover {color: blue;}
 	position:relative;
 	animation:animateleft 0.5s;
 }@keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
-
+![image]
 </style>
 <body>
 	<div class='language'>中文>
