@@ -8,7 +8,7 @@
 	<title>首頁 - 前瞻元件與技術實驗室</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
-
+-->
 <style>
 p.news{line-height:20px;}
 img.p{
@@ -23,7 +23,6 @@ a:hover {color: blue;}
 }@keyframes animateleft{from{left:-300px;opacity:0} to{left:0;opacity:1}}
 
 </style>
--->
 
 <body>
 	<div class='language'>中文>
